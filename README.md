@@ -22,6 +22,8 @@ Markdown - é uma forma de documentar texto
 
 `git push origin master` : Enviar o commit da máquina para o destino (github)
 
+`git clone <link-do-github>` : faz o download do repositório para sua máquina, lembrar de executar o comando `cd <nome-repositório>` depois para entrar na pasta
+
 echo "# proway-git" >> README.md
 git init
 git add README.md
